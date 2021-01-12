@@ -1,3 +1,5 @@
+#solving basic 0/1 knapsack problem using top down approach
+
 wt=[int (i) for i in input().split()]
 val=[int (i) for i in input().split()]
 limit=int(input())
